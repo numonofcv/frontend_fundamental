@@ -1,0 +1,12 @@
+{
+    "workbench.editor.doubleClickTabToToggleEditorGroupSizes": "expand",
+    "workbench.editor.enablePreviewFromCodeNavigation": false,
+    "workbench.editor.pinnedTabSizing": "normal",
+    "workbench.editor.restoreViewState": true,
+    "workbench.editor.scrollToSwitchTabs": false,
+    "workbench.editor.tabSizing": "fit",
+    "workbench.editor.tabSizingFixedMaxWidth": 100,
+    "workbench.editorLargeFileConfirmation": 721,
+    "workbench.experimental.cloudChanges.partialMatches.enabled": true
+    
+}
